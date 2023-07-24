@@ -1,0 +1,3 @@
+#!/bin/bash
+
+rke up
